@@ -1,0 +1,6 @@
+# Ignore large data and temporary files
+data/
+outputs/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
