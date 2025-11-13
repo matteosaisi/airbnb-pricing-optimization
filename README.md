@@ -1,1 +1,1 @@
-Work-in-progress project that uses machine learning to optimize Airbnb rental pricing in the San Francisco area.
+Work-in-progress project that applies machine learning to predict and optimize nightly Airbnb rental prices in San Francisco. The goal is to identify which property and host features most influence price and to build interpretable models for pricing insights.
